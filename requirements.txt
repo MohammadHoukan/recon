@@ -1,0 +1,8 @@
+git+https://github.com/ptycho/ptypy.git
+numpy
+matplotlib
+pandas
+h5py
+scipy
+seaborn
+tqdm
